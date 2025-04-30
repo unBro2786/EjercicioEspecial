@@ -1,5 +1,4 @@
 # Ejercicio Evaluado Especial
-
+## Cohorte 53 (CH53)
 Ejercicio Evaluado Especial
-
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+09:54 hrs - 30 de mayo del 2025
